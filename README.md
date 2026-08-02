@@ -229,16 +229,10 @@ salesforce-adoption-dashboard/
 │
 ├── docs/
 │   ├── Salesforce_Adoption_Dashboard_One_Page_Project_Summary.docx
-│
-├── data/
 │   └── tableau_salesforce_adoption_dashboard_full.csv
 │
 ├── sql/
 │   ├── 01_database_import_and_cleaning.sql
 │   └── 02_sql_business_analysis_queries.sql
-│
-├── dashboard demo video/
-│   └──  https://youtu.be/G7NbGqkcIK8
-│
 └── tableau/
     └── tableau_public_link.txt
