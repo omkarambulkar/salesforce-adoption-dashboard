@@ -232,7 +232,8 @@ salesforce-adoption-dashboard/
 │   └── tableau_salesforce_adoption_dashboard_full.csv
 │
 ├── sql/
-│   ├── 01_database_import_and_cleaning.sql
-│   └── 02_sql_business_analysis_queries.sql
+│   ├──## SQL Files
+- [Database Import and Cleaning SQL](sql/01_database_import_and_cleaning.sql)
+- [Business Analysis SQL Queries](sql/02_sql_business_analysis_queries.sql)
 └── tableau/
     └── tableau_public_link.txt
