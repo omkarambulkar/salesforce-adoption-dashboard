@@ -229,7 +229,6 @@ salesforce-adoption-dashboard/
 │
 ├── docs/
 │   ├── Salesforce_Adoption_Dashboard_One_Page_Project_Summary.docx
-│   └── Salesforce_Adoption_Dashboard_Detailed_Interview_Preparation_Guide.docx
 │
 ├── data/
 │   └── tableau_salesforce_adoption_dashboard_full.csv
